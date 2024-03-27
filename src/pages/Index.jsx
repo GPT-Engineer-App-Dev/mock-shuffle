@@ -7,7 +7,7 @@ const Index = () => {
   // TODO: Create the website here!
   return (
     <Button>
-      Hello world again! <FaPlus />
+      Hello world again 2! <FaPlus />
     </Button>
   ); // example
 };
