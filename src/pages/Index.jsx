@@ -32,7 +32,7 @@ const Index = () => {
 
       <Flex mb={8}>
         <Input value={inputValue} onChange={handleInputChange} placeholder="Enter a new todo" mr={4} />
-        <Button onClick={handleAddTodo} colorScheme="blue" leftIcon={<FaPlus />}>
+        <Button onClick={handleAddTodo} colorScheme="green" leftIcon={<FaPlus />}>
           Add Todo
         </Button>
       </Flex>
