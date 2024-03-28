@@ -5,6 +5,9 @@ import ChatMessage from "../components/ChatMessage";
 const Index = () => {
   return (
     <Box p={4} h="100vh" display="flex" flexDirection="column">
+      <Text fontSize="2xl" fontWeight="bold" mb={4}>
+        Chat App
+      </Text>
       <VStack spacing={4} flexGrow={1} overflow="auto">
         <ChatMessage text="Hey there! How can I assist you today?" sender="bot" />
         <ChatMessage text="I'm looking for some gift ideas for my mom's birthday." sender="me" />
