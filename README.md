@@ -1,4 +1,4 @@
-# mock-shuffleabaaabaaba
+# mock-shufflebaabaaaabb
 
 REPLACE_WITH_PROJECT_DESCRIPTION
 
@@ -14,7 +14,7 @@ If you clone this repo and push changes, you will have them reflected in the GPT
 
 ```sh
 git clone https://github.com/GPT-Engineer-App-Dev/mock-shuffle.git
-cd mock-shuffleabaaabaaba
+cd mock-shufflebaabaaaabb
 npm i
 ```
 
